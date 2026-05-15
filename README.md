@@ -46,7 +46,7 @@ OUTPUT:
 
 **STRAIGHTFORWARD PROMPTING**
 
-**Definition **
+**Definition**
 Straightforward prompts are direct, clear, and concise instructions that expect a specific, factual response. They do not require elaborate context or prior questions — the prompt alone contains everything the AI needs to produce a useful output. These prompts are typically short and use imperative verbs such as Define, List, Explain, Name, or Describe. The expected output is usually a single sentence, short list, or a brief factual answer.
 
 **Use Case 1 — Healthcare / Medical Information**
@@ -77,7 +77,7 @@ Overfitting occurs when a machine learning model learns the training data too we
 
 **2.TABULAR FORMAT PROMPTING**
 
-**Definition **
+**Definition**
 Tabular format prompting instructs the AI to organize and present information in a structured table. This prompt type is ideal when comparing multiple items across consistent attributes or when structured reference data is required.
 These prompts typically use phrases like 'Create a table', 'Compare in a table', or 'Provide a table listing...' The output is a neatly organized grid with headers and rows that makes comparison easy.
 
