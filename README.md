@@ -94,21 +94,21 @@ These prompts typically use phrases like 'Create a table', 'Compare in a table',
 
 **Use Case 2 — Programming Languages Reference**
 
-**Prompt 1: **Create a table listing five popular programming languages with columns: Language, Paradigm, Typical Use Case, and Year Created.
+**Prompt 1: Create a table listing five popular programming languages with columns: Language, Paradigm, Typical Use Case, and Year Created.**
 
 <img width="871" height="501" alt="image" src="https://github.com/user-attachments/assets/39cb604e-462c-45e4-ba40-fb8565143f5a" />
 
 
-**Prompt 2:** Make a comparison table of supervised vs. unsupervised machine learning with the following columns: Aspect, Supervised Learning, Unsupervised Learning.
-Aspect	Supervised Learning	Unsupervised Learning
+**Prompt 2: Make a comparison table of supervised vs. unsupervised machine learning with the following columns: Aspect, Supervised Learning, Unsupervised Learning.
+Aspect	Supervised Learning	Unsupervised Learning**
 
-** 3.PRECEDING QUESTION PROMPTING**
+**3.PRECEDING QUESTION PROMPTING**
 
 **Definition:**
 Preceding Question prompting uses a two-part structure: first, a question is posed to establish context, and then a follow-up instruction asks the AI to elaborate or explain further. This technique guides the model to produce a more focused and contextually rich response.
 The first part frames the topic and signals what is important; the second part directs the depth and direction of the answer. This style is highly effective for educational content, technical explanations, and policy discussions.
 
-**Use Case 1 — Cybersecurity & Data Privacy **
+**Use Case 1 — Cybersecurity & Data Privacy**
 
 **Prompt 1**: Why is data encryption critical in modern cybersecurity? Explain how symmetric and asymmetric encryption differ and when each should be used.
 
